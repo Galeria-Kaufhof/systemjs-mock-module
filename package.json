@@ -2,6 +2,10 @@
   "name": "systemjs-mock-module",
   "version": "0.1.0",
   "description": "Simple helper to mock ES6 modules using SystemJS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Galeria-Kaufhof/systemjs-mock-module.git"
+  },
   "main": "index.js",
   "keywords": [
     "systemjs",
