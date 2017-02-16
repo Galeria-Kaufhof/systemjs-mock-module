@@ -1,0 +1,14 @@
+{
+  "name": "systemjs-mock-module",
+  "version": "0.1.0",
+  "description": "Simple helper to mock ES6 modules using SystemJS",
+  "main": "index.js",
+  "keywords": [
+    "systemjs",
+    "es6",
+    "mock",
+    "module"
+  ],
+  "author": "Rico Pfaus",
+  "license": "MIT"
+}
